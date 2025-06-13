@@ -48,4 +48,6 @@ MGM Grand Market is recognized as a top platform in the darknet community. It ha
 
 This guide has been provided solely for educational and informational purposes. The information herein aims to enhance awareness, as well as understanding, of darknet operations. We do not endorse nor do we promote any illegal activities. Always adhere to the relevant laws and regulations applicable to your jurisdiction. Explore the darknet safely, and remain well-informed.
 
-Update:  Wednesday 11 June 2025
+
+
+Update:  13 June
