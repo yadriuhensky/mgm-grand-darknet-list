@@ -50,4 +50,6 @@ This guide has been provided solely for educational and informational purposes. 
 
 
 
-Update:  13 June
+
+
+Update: Resource URLs
