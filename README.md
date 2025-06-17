@@ -52,4 +52,6 @@ This guide has been provided solely for educational and informational purposes. 
 
 
 
-Update: Resource URLs
+
+
+Update: link is up and running
