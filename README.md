@@ -64,4 +64,6 @@ This guide has been provided solely for educational and informational purposes. 
 
 
 
-Update:  07/04/2025 04-19-58
+
+
+Update:  07.07.2025 12:07 Anchor fixes
